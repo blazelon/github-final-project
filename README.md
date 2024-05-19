@@ -1,4 +1,4 @@
-# Github Final Project for Git and Github course Coursera
+# Simple Interest Calculator Bash Script
 
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
